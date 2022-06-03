@@ -5,4 +5,3 @@ Questo è un suggerimento!
 {% endhint %}
 
 > Questa è una citazione
-

@@ -3,13 +3,14 @@
 ## Strumenti
 
 * [GitHub](README.md)
+* [Aggiungere una chiave SSH](strumenti/aggiungere-una-chiave-ssh.md)
 * [Visual Studio Code](strumenti/visual-studio-code/README.md)
   * [Remote SSH](strumenti/visual-studio-code/remote-ssh.md)
 
 ## HTML
 
-* [Introduzione](html/readme-1/README.md)
-  * [Starter template](html/readme-1/starter-template.md)
+* [Introduzione](<README (1).md>)
+  * [Starter template](html/starter-template.md)
 
 ## CSS
 
@@ -21,7 +22,7 @@
 
 ## Bootstrap
 
-* [Page 1](bootstrap-1/page-1.md)
+* [Page 1](<bootstrap/page-1 (1).md>)
 
 ## JavaScript
 
@@ -33,11 +34,11 @@
 
 ## Ruby on Rails
 
-* [Page 5](ruby-on-rails/page-5.md)
+* [Creare una nuova applicazione](ruby-on-rails/creare-una-nuova-applicazione.md)
 
 ## Ruby on Rails
 
-* [Page 5](ruby-on-rails-1/page-5.md)
+* [Page 5](ruby-on-rails/page-5.md)
 
 ## WPF
 
