@@ -12,7 +12,7 @@ Solo se crea problemi:
 bundle install
 ```
 
-Solo se serve aggiornare yarn:
+Solo se serve, aggiornare yarn:
 
 ```
 npm install --global yarn
