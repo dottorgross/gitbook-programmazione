@@ -8,8 +8,8 @@
 
 ## HTML
 
-* [Introduzione](<README (1).md>)
-* [Starter template](html/starter-template.md)
+* [Introduzione](html/readme-1/README.md)
+  * [Starter template](html/readme-1/starter-template.md)
 
 ## CSS
 
@@ -18,6 +18,10 @@
 ## Bootstrap
 
 * [Page 1](bootstrap/page-1.md)
+
+## Bootstrap
+
+* [Page 1](bootstrap-1/page-1.md)
 
 ## JavaScript
 
@@ -30,6 +34,10 @@
 ## Ruby on Rails
 
 * [Page 5](ruby-on-rails/page-5.md)
+
+## Ruby on Rails
+
+* [Page 5](ruby-on-rails-1/page-5.md)
 
 ## WPF
 
