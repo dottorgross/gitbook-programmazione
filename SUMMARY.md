@@ -3,7 +3,8 @@
 ## Strumenti
 
 * [GitHub](README.md)
-* [Aggiungere una chiave SSH](strumenti/aggiungere-una-chiave-ssh.md)
+  * [Aggiungere una chiave SSH](strumenti/readme/aggiungere-una-chiave-ssh.md)
+  * [Page 8](strumenti/readme/page-8.md)
 * [Visual Studio Code](strumenti/visual-studio-code/README.md)
   * [Remote SSH](strumenti/visual-studio-code/remote-ssh.md)
 
