@@ -35,9 +35,6 @@
 ## Ruby on Rails
 
 * [Creare una nuova applicazione](ruby-on-rails/creare-una-nuova-applicazione.md)
-
-## Ruby on Rails
-
 * [Page 5](ruby-on-rails/page-5.md)
 
 ## WPF
