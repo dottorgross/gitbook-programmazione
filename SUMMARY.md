@@ -33,11 +33,6 @@
 
 * [Page 4](react/page-4.md)
 
-## Ruby on Rails
-
-* [Creare una nuova applicazione](ruby-on-rails/creare-una-nuova-applicazione.md)
-* [Page 5](ruby-on-rails/page-5.md)
-
 ## WPF
 
 * [Page 6](wpf/page-6.md)
