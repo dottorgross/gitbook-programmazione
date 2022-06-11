@@ -24,19 +24,3 @@
 ## Bootstrap
 
 * [Page 1](<bootstrap/page-1 (1).md>)
-
-## JavaScript
-
-* [Page 3](javascript/page-3.md)
-
-## React
-
-* [Page 4](react/page-4.md)
-
-## WPF
-
-* [Page 6](wpf/page-6.md)
-
-## Unreal Engine
-
-* [Page 7](unreal-engine/page-7.md)
